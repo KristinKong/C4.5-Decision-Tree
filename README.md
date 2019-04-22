@@ -1,7 +1,7 @@
 # C4.5-Decision-Tree
 # Use C4.5 as well as PEP pruning algorithm to implement decision tree, and the language used is python.
 ## 1.Enviroment
-	<br>IDE：Pycharm 2018 2.3 x64</br>
+	IDE：Pycharm 2018 2.3 x64\<br>
 	<br>Interpreter：Anaconda 3（syntax is python 3.6）</br>
 	<br></br>
 ## 2.How to run?  (Note：I have already done the initial configuration which can run directly)
